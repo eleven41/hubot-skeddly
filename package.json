@@ -1,0 +1,26 @@
+{
+  "name": "hubot-skeddly",
+  "version": "0.1.0",
+  "description": "Hubot integration for the Skeddly API.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "skeddly"
+  ],
+  "author": "Matt Houser <matt@eleven41.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eleven41/hubot-skeddly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eleven41/hubot-skeddly/issues"
+  },
+  "dependencies" : {
+    "moment": "^2.13.0"
+  }
+}
